@@ -6,7 +6,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white)](https://mdxjs.com)
-[![SSG](https://img.shields.io/badge/SSG-Static_Site_Generated-2ea043?style=flat)](https://docs.astro.build/en/guides/content-collections/)
 
 <img width="814" height="242" alt="web-link-card-view" src="https://github.com/user-attachments/assets/003e22ef-292b-40b0-833b-72d4bcdf5f63" />
 
