@@ -1,6 +1,14 @@
 # Building Astro Native Link-Unfurl/Link-Preview UI Card with Zero Client-Side Processing
-<img width="814" height="242" alt="web-link-card-view" src="https://github.com/user-attachments/assets/003e22ef-292b-40b0-833b-72d4bcdf5f63" />
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)](https://astro.build)
+[![TinaCMS](https://img.shields.io/badge/TinaCMS-EC4815?style=flat&logo=tinacms&logoColor=white)](https://tina.io)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white)](https://mdxjs.com)
+[![SSG](https://img.shields.io/badge/SSG-Static_Site_Generated-2ea043?style=flat)](https://docs.astro.build/en/guides/content-collections/)
 
+<img width="814" height="242" alt="web-link-card-view" src="https://github.com/user-attachments/assets/003e22ef-292b-40b0-833b-72d4bcdf5f63" />
 
 ## The Challenge
 
