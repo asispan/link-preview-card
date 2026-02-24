@@ -1,4 +1,4 @@
-# Building a Link Unfurl / Link Preview UI Card with Zero Client-Side Processing
+# Building Astro Native Link-Unfurl/Link-Preview UI Card with Zero Client-Side Processing
 <img width="814" height="242" alt="web-link-card-view" src="https://github.com/user-attachments/assets/003e22ef-292b-40b0-833b-72d4bcdf5f63" />
 
 
